@@ -1,7 +1,7 @@
 Game Ooze is a portal for two desktop games (i.e. Flappy Bird and BreakOut Ball) built using Java Swing in Apache NetBeans IDE.
 
 <h2>Flappy Bird</h2>
-<p>In this game, the player is tasked with navigating the bird through the pair of pipes, whose heights are randomly generated.Each successful pass through the pair of pipes award the player one point and after every five points scored, speed of the pipes approaching increases making the level difficult for the player.
+<p>In this game, the player is tasked with navigating the bird through the pair of pipes, whose heights are randomly generated. Each successful pass through the pair of pipes award the player one point and after every five points scored, speed of the pipes approaching increases, making the level difficult for the player.
 </p><p>The bird only ascends when the player hits the <b>Spacebar</b> or the <b>Arrow up key.</b> 
 </p><p>Colliding with a pipe or the ground ends the gameplay.
 
